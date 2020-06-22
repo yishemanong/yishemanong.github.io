@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "36827",
+      "name": "看展览",
+      "font_class": "kanzhanlan",
+      "unicode": "f009e",
+      "unicode_decimal": 983198
+    },
+    {
+      "icon_id": "1013095",
+      "name": "学位",
+      "font_class": "education",
+      "unicode": "e673",
+      "unicode_decimal": 58995
+    },
+    {
+      "icon_id": "1149095",
+      "name": "美术",
+      "font_class": "meishu",
+      "unicode": "e6ac",
+      "unicode_decimal": 59052
+    }
+  ]
+}
